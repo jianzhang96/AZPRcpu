@@ -1,0 +1,4 @@
+0c008000 // ORI r0, r0, 0x8000
+0c21ffff // ORI r1, r1, 0xFFFF
+3c000010 // SHLLI r0, r0, 16
+5c010004 // STW r0, r1, 0x0004
