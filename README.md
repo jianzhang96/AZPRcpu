@@ -1,5 +1,5 @@
 # AZPRcpu
-AZPR cpu.
+《CPU自制入门》附录的Verilog代码，其中的日文注释翻译成了中文。
 
 bus:总线模块
 
